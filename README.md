@@ -4,15 +4,7 @@ An end-to-end machine learning project for predicting Malaysia house prices usin
 
 ## Project Overview
 
-This project demonstrates the workflow of machine learning prediction, including:
-
-* Data preprocessing
-* Data cleaning
-* Feature engineering
-* Exploratory Data Analysis (EDA)
-* Model training and evaluation
-* Interactive house price prediction
-
+This project demonstrates the workflow of machine learning prediction.
 The prediction results are intended for educational and reference purposes only, as the dataset may contain incomplete or limited information.
 
 ## Dataset
@@ -23,15 +15,24 @@ https://www.kaggle.com/datasets/lyhatt/house-prices-in-malaysia-2025
 
 Credits to the original dataset creator for providing the public dataset.
 
-## Technologies Used
-
+## Tools & Technologies Used
 * Python
+* Jupyter Notebook
 * Pandas
 * NumPy
 * Scikit-learn
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
+* ipywidgets
+
+## Machine Learning Concepts Applied
+* Data Cleaning
+* Data Preprocessing
+* Feature Engineering
+* Exploratory Data Analysis (EDA)
+* One-Hot Encoding
+* Linear Regression
+* Model Evaluation (MAE, MSE, RMSE, R²)
 
 ## How to Run
 
