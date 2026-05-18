@@ -4,7 +4,8 @@ An end-to-end machine learning project for predicting Malaysia house prices usin
 
 ## Project Overview
 
-This project demonstrates the workflow of machine learning prediction.
+This project demonstrates the workflow of machine learning prediction, including data preprocessing, feature engineering, exploratory data analysis (EDA), model training, and evaluation.
+
 The prediction results are intended for educational and reference purposes only, as the dataset may contain incomplete or limited information.
 
 ## Dataset
@@ -16,6 +17,7 @@ https://www.kaggle.com/datasets/lyhatt/house-prices-in-malaysia-2025
 Credits to the original dataset creator for providing the public dataset.
 
 ## Tools & Technologies Used
+
 * Python
 * Jupyter Notebook
 * Pandas
@@ -26,6 +28,7 @@ Credits to the original dataset creator for providing the public dataset.
 * ipywidgets
 
 ## Machine Learning Concepts Applied
+
 * Data Cleaning
 * Data Preprocessing
 * Feature Engineering
@@ -37,7 +40,7 @@ Credits to the original dataset creator for providing the public dataset.
 ## How to Run
 
 1. Download the dataset from the Kaggle link above.
-2. If your downloaded is an excel file just convert it to CSV file otherwise it wont read it.
+2. Ensure the dataset file is in CSV format.
 3. Place the CSV file in the same directory as the Jupyter Notebook file.
 4. Open the notebook in Jupyter Notebook.
 5. Run all cells sequentially.
@@ -50,11 +53,11 @@ df = pd.read_csv('malaysia_house_price_data_2025.csv')
 
 ## Project Notes
 
-This project was developed as a group project collaboration.
+This project was developed as a group collaboration.
+
 My contribution focused mainly on implementing and developing the machine learning workflow, while my teammate contributed to code revision and improvements.
 
 ## Output Demonstration
 
-A demonstration video of the project output is also included in this repository.
-https://youtu.be/W-dlU6GK-vU
-
+A demonstration video of the project output is included in this repository.
+youtube link: https://youtu.be/W-dlU6GK-vU
