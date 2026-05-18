@@ -36,9 +36,10 @@ Credits to the original dataset creator for providing the public dataset.
 ## How to Run
 
 1. Download the dataset from the Kaggle link above.
-2. Place the CSV file in the same directory as the Jupyter Notebook file.
-3. Open the notebook in Jupyter Notebook.
-4. Run all cells sequentially.
+2. If your downloaded is an excel file just convert it to CSV file otherwise it wont read it.
+3. Place the CSV file in the same directory as the Jupyter Notebook file.
+4. Open the notebook in Jupyter Notebook.
+5. Run all cells sequentially.
 
 Example:
 
