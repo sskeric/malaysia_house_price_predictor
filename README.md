@@ -54,3 +54,5 @@ My contribution focused mainly on implementing and developing the machine learni
 ## Output Demonstration
 
 A demonstration video of the project output is also included in this repository.
+https://youtu.be/W-dlU6GK-vU
+
