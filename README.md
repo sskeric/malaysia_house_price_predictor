@@ -1,3 +1,6 @@
+## Video Demonstration
+https://youtu.be/W-dlU6GK-vU
+
 # Malaysia House Price Prediction
 
 An end-to-end machine learning project for predicting Malaysia house prices using Python, Pandas, visualization, and Scikit-learn.
@@ -56,9 +59,3 @@ df = pd.read_csv('malaysia_house_price_data_2025.csv')
 This project was developed as a group collaboration.
 
 My contribution focused mainly on implementing and developing the machine learning workflow, while my teammate contributed to code revision and improvements.
-
-## Output Demonstration
-
-A demonstration video of the project output is included in this repository.
-
-youtube link: https://youtu.be/W-dlU6GK-vU
